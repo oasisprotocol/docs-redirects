@@ -4,7 +4,7 @@ This is a temporary redirects repository from docs.oasis.dev -> docs.oasis.io.
 Remove the repository after Sep 2023 or sooner, if other redirection mechanism
 is implemented.
 
-Commands used to generate redirection page:
+Commands used to generate the redirection pages:
 
 ```sh
 # create template.phtml by taking arbitrary docusaurus redirect page and replace target url with PLACEHOLDER
